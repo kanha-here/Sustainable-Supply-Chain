@@ -31,3 +31,7 @@ All activities are logged via blockchain events for effortless auditability!
 **Let's build greener, trust-driven supply chains together!**
 
 contract address: 0xa24BA7B6a216C39eB10FbA22284b3C606A378927
+
+
+<img width="1562" height="670" alt="image" src="https://github.com/user-attachments/assets/87305aa1-5584-4a3f-9f1e-a70ac96e3053" />
+
