@@ -27,15 +27,6 @@ All activities are logged via blockchain events for effortless auditability!
 
 ---
 
-## 🤝 Why Recruiters Will Love This
-
-- **Modern Tech Stack:** Solidity smart contracts—showcasing web3 skills and eco-focused problem solving.
-- **Business Impact:** Bridges the gap between digital transformation and corporate sustainability mandates.
-- **Plug-and-Play:** The contract is designed for extensibility and easy integration into larger dApps or supply chain platforms.
-
----
-
-## 🌟 Get in Touch
 
 **Let's build greener, trust-driven supply chains together!**
 
